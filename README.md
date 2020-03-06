@@ -4,6 +4,19 @@ Hi，欢迎使用“酱茄小程序开源版 – 人人咖啡师”。
 酱茄小程序开源版基于WordPress开源程序和WordPress REST API开发，实现WordPress网站数据与小程序数据同步共享，通过简单的配置就能搭建自己的小程序。
 
 ## 演示
+————————————【联系/版权】————————————
+
+**微信客服：jianbing2011 （如要加入微信群请说明）**
+
+**技术支持：www.jiangqie.com**
+
+**安装文档：https://www.jiangqie.com/docs/kaiyuan/id1**
+
+**更新/下载：https://www.jiangqie.com/docs/kaiyuan/id1**
+
+**开源协议：The MIT License (MIT)**
+
+**Copyright © 2020 酱茄 jiangqie.com**
 
 ![微信小程序二维码](https://raw.githubusercontent.com/longwenjunjie/jiangqie_kafei/master/screenshot/code.jpg)
 
@@ -20,21 +33,6 @@ Hi，欢迎使用“酱茄小程序开源版 – 人人咖啡师”。
 ![后台截图4](https://raw.githubusercontent.com/longwenjunjie/jiangqie_kafei/master/screenshot/14.png)
 ![后台截图5](https://raw.githubusercontent.com/longwenjunjie/jiangqie_kafei/master/screenshot/15.png)
 
-————————————【联系/版权】————————————
-
-**微信客服：jianbing2011 （如要加入微信群请说明）**
-
-**技术支持：www.jiangqie.com**
-
-**安装文档：https://www.jiangqie.com/docs/kaiyuan/id1**
-
-**更新/下载：https://www.jiangqie.com/docs/kaiyuan/id1**
-
-**开源协议：The MIT License (MIT)**
-
-**Copyright © 2020 酱茄 jiangqie.com**
-
-**在此对提供开源及创意表示致谢，开源声明关注酱茄官网。**
 
 
 ————————————【功能清单】————————————
